@@ -4,6 +4,8 @@ public class LottoZahlenApp {
 
     public static void main(String[] args) {
 
+        int size = 6;
+        int maxNumber = 45;
 
     }
 
@@ -19,7 +21,7 @@ public class LottoZahlenApp {
         }
         return null;
 
-        int number = (int) (Math.random() * maxNumber + 1);
+     //   int number = (int) (Math.random() * maxNumber + 1);
 
 
 

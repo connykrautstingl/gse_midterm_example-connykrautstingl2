@@ -6,8 +6,5 @@ public class PersonDemo {
 
         Person maxMustermann = new Person("Max", "Mustermann", 180, 4);
 
-        System.out.println("maxMustermann = ");
-
-
     }
 }

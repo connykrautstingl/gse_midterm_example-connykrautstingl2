@@ -23,19 +23,13 @@ public class EinkaufslisteApp {
     }
 
 
-    public static double sum(ArrayList<Einkauf> einkaufsliste){
-
-    }
+   // public static double sum(ArrayList<Einkauf> einkaufsliste){    }
 
 
-    public static double sum(HashSet<Einkauf> einkaufsliste) {
-
-    }
+   // public static double sum(HashSet<Einkauf> einkaufsliste) {   }
 
 
-    public static HashSet<Einkauf> unique(ArrayList<Einkauf> einkaufslise){
-
-    }
+   // public static HashSet<Einkauf> unique(ArrayList<Einkauf> einkaufslise){    }
 
 
 }

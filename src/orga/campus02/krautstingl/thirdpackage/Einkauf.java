@@ -4,7 +4,7 @@ public class Einkauf {
 
     public static void main(String[] args) {
 
-        EinkaufslisteApp banane = new
+      //  EinkaufslisteApp banane = new
 
 
 
