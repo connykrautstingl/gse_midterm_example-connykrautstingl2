@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="MidtermExample" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="gse_midterm_example-connykrautstinglmaven" target="1.5" />
+      <module name="MidtermExample" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
