@@ -1,7 +1,4 @@
-package orga.campus02.krautstingl.thirdpackage;
-
-import java.util.ArrayList;
-import java.util.HashSet;
+package orga.campus02.krautstingl.selftries.secondPackage.thirdpackage;
 
 public class EinkaufslisteApp {
 

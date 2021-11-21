@@ -1,4 +1,4 @@
-package orga.campus02.krautstingl.thirdpackage;
+package orga.campus02.krautstingl.selftries.secondPackage.thirdpackage;
 
 public class Einkauf {
 

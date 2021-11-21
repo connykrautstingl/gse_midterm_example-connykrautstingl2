@@ -1,4 +1,4 @@
-package orga.campus02.krautstingl.secondPackage;
+package orga.campus02.krautstingl.selftries.secondPackage;
 
 public class LottoZahlenApp {
 

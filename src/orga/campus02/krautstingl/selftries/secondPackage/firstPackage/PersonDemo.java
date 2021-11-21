@@ -1,4 +1,4 @@
-package orga.campus02.krautstingl.firstPackage;
+package orga.campus02.krautstingl.selftries.secondPackage.firstPackage;
 
 public class PersonDemo {
 
